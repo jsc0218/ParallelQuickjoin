@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="QuickJoin"
+	ProjectGUID="{BB7F7382-6382-404C-9805-2F2E19100A78}"
+	VCNestedProjectGUID="{673C3A1E-8359-449D-AC89-5EF376DF9D77}"
+	VCNestedProjectFileName="QuickJoin.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
