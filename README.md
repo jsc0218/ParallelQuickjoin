@@ -1,7 +1,7 @@
 Quickjoin
 =========
 
-an algorithm to solve the similarity join problem (serial version), implemented according to the paper:
+an algorithm to solve the similarity join problem, implemented according to the paper:
 
 Edwin H. Jacox, Hanan Samet:
 Metric space similarity joins. ACM Trans. Database Syst. 33(2) (2008)
