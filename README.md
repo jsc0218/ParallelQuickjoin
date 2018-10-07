@@ -1,7 +1,7 @@
 Quickjoin
 =========
 
-an algorithm to solve the similarity join problem, implemented according to the paper:
+an serial algorithm to solve the similarity join problem, implemented according to the paper:
 
 Edwin H. Jacox, Hanan Samet:
 Metric space similarity joins. ACM Trans. Database Syst. 33(2) (2008)
@@ -13,7 +13,7 @@ Metric space similarity joins. ACM Trans. Database Syst. 33(2) (2008)
 OpenMPQuickjoin
 =========
 
-a parallel algorithm to solve the similarity join problem (OpenMP version), implemented according to the paper:
+a parallel algorithm to solve the similarity join problem with OpenMP, implemented according to the paper:
 
 Shichao Jin, Okhee Kim, Wenya Feng:
 Accelerating Metric Space Similarity Joins with Multi-core and Many-core Processors. ICCSA (5) 2013: 166-180
@@ -25,7 +25,7 @@ Accelerating Metric Space Similarity Joins with Multi-core and Many-core Process
 
 CUDAQuickjoin
 =============
-a parallel algorithm to solve the similarity join problem exploiting the massive power of a GPU (CUDA version), implemented according to the paper:
+a parallel algorithm to solve the similarity join problem exploiting the massive power of a GPU with CUDA, implemented according to the paper:
 
 Shichao Jin, Okhee Kim, Wenya Feng:
 Accelerating Metric Space Similarity Joins with Multi-core and Many-core Processors. ICCSA (5) 2013: 166-180
